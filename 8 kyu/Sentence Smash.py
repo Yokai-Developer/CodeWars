@@ -13,5 +13,6 @@ def smash(words):
             line += ' ' + i
     return line
 
+# Лучшее решение
 # def smash(words):
 #    return " ".join(words)
